@@ -1,6 +1,6 @@
 # M3U8Parser
 
-参考了https://github.com/hipposan/LemonDeer,所以名字基本没有改动，在他的基础上改进了解析M3U8文件的方法，增加了带有key的M3U8文件的解析。
+参考了https://github.com/hipposan/LemonDeer , 所以名字基本没有改动，在他的基础上改进了解析M3U8文件的方法，增加了带有key的M3U8文件的解析。
 
 1.是一个集成了M3u8文件的解析，以及视频的下载的工具
 
